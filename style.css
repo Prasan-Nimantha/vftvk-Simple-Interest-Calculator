@@ -1,4 +1,91 @@
-body {background-color:tan;}
-h1{color:green;}
+body { 
+     background-color: blue;
+     color: white;
+     font: aerial;
+}
+
+h1{ 
+    color:grey;
+    font: verdana;
+    text-align: center;
+}
+
+.maindiv{
+    background-color:ivory;
+    color: black;
+    width: 400px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+label{
+    font: verdana;
+    color: midnightblue;
+    font-weight: 600;
+}
+
+.input-group{
+    margin: 20px;
+}
+
+.input-group select {
+    padding: 10px;
+    border: solid 1px #999;
+    border-radius: 2px;
+    margin-top: 5px;
+    margin-left: 10px;
+
+}
+
+input[type=number]{
+    padding: 5px;
+    width: 100%;
+    margin: 5px;
+    margin-bottom: 10px;
+}
+
+.range input{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.range label{
+    margin-right: 10px;
+}
+
+.range{
+    margin-top: 10px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+}
+.years{
+    margin-top: 10px;
+}
+button{
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    font: sans-serif;
+    font-weight: 200;
+}
+
+span{
+    margin-left: 10px;
+    font: sans-serif;
+    font-weight: 500px;
+    color: midnightblue;
+}
+
+
+footer {
+    color: ivory;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+
 
 
